@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pricebook xmlns="http://www.demandware.com/xml/impex/pricebook/2006-10-31">
+	<price-table product-id="1AC003   2444TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">9.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC003   2445TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">9.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC003   2446TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">9.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC003   2632TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">9.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC003   2633TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">9.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC003   2880TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">9.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC003   2881TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">9.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC003   2882TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">9.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC003   3323TU">
+	    <online-from>1999-12-31T22:10:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">9.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC003   3324TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">9.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC003   3325TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">9.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC004   2642TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">1.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC004   2643TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">1.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC004   2644TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">1.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC005   2645TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">1.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC006   001 TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">2.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC006   019 TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">2.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC007   6985TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">9.99</amount>
+	</price-table>
+	
+	<price-table product-id="1AC007   6986TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">9.99</amount>
+	</price-table>
+	
+	<price-table product-id="1AC007   6987TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">9.99</amount>
+	</price-table>
+	
+	<price-table product-id="1AC011   3826TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">5.00</amount>
+	</price-table>
+	
+	<price-table product-id="1AC011   3830TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">5.00</amount>
+	</price-table>
+	
+	<price-table product-id="1AC011   3857TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">5.00</amount>
+	</price-table>
+	
+	<price-table product-id="1AC014   019 M/L">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">14.99</amount>
+	</price-table>
+	
+	<price-table product-id="1AC014   019 S/M">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">14.99</amount>
+	</price-table>
+	
+	<price-table product-id="1AC014   1905M/L">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">14.99</amount>
+	</price-table>
+	
+	<price-table product-id="1AC014   1905S/M">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">14.99</amount>
+	</price-table>
+	
+	<price-table product-id="1AC015   1905TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">3.99</amount>
+	</price-table>
+	
+	<price-table product-id="1AC100   164 00002">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">1.50</amount>
+	</price-table>
+	
+	<price-table product-id="1AC102   166 00002">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">9.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC103   001 00002">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">12.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC1035  5065TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">9.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC1036  5062TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">9.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC1037  5066TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">9.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC1038  019 TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">6.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC105   001 00002">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">7.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC105   019 00002">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">7.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC105   243 00002">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">7.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC1055  6268TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">5.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC1056  3100TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">5.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC1057  4475TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">5.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC1058  019 TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">5.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC106   019 00002">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">6.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC106   058 00002">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">6.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC1066  4957TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">6.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC1066  4958TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">6.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC107   1905TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">6.99</amount>
+	</price-table>
+	
+	<price-table product-id="1AC107   8892TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">6.99</amount>
+	</price-table>
+	
+	<price-table product-id="1AC108   009 00003">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">14.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC108   009 00004">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">14.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC108   009 00005">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">14.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC109   134 00002">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">12.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC109   789 00002">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">12.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC110   009 00003">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">14.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC110   009 00004">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">14.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC111   666 00002">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">2.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC112   581 00002">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">9.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC112   668 00002">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">9.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC112   677 00002">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">9.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC113   019 00002">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">9.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC113   580 00002">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">9.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC114   590 00002">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">6.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC116   019 00002">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">9.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC116   116500002">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">9.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC116   134 00002">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">9.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC117   019 00002">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">9.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC117   116500002">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">9.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC117   134 00002">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">9.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC118   019 00002">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">15.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC118   031 00002">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">15.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC119   756 00003">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">19.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC119   756 00004">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">19.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC119   756 00005">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">19.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC120   009 00003">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">14.99</amount>
+	</price-table>
+	
+	<price-table product-id="1AC120   009 00004">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">14.99</amount>
+	</price-table>
+	
+	<price-table product-id="1AC120   009 M/L">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">14.99</amount>
+	</price-table>
+	
+	<price-table product-id="1AC120   009 S/M">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">14.99</amount>
+	</price-table>
+	
+	<price-table product-id="1AC121   019 TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">14.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC121   1901TU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">14.90</amount>
+	</price-table>
+	
+	<price-table product-id="1AC1213  228TTU">
+	    <online-from>1999-12-31T22:00:00.000Z</online-from>
+	    <online-to>9999-12-31T22:00:00.000Z</online-to>
+	    <amount quantity="1">6.99</amount>
+	</price-table>
+</pricebook>
+            
