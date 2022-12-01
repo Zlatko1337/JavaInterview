@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pricebook xmlns="http://www.demandware.com/xml/impex/pricebook/2006-10-31">
+    <price-table product-id="1AC003   2632TU">
+        <online-from>1999-12-31T22:00:00.000Z</online-from>
+        <online-to>9999-12-31T22:00:00.000Z</online-to>
+        <amount quantity="1">4.99</amount>
+    </price-table>
+    <price-table product-id="1AC003   3323TU">
+        <online-from>1999-12-31T22:10:00.000Z</online-from>
+        <online-to>9999-12-31T22:00:00.000Z</online-to>
+        <amount quantity="1">4.99</amount>
+    </price-table>
+    <price-table product-id="1AC014   019 M/L">
+        <online-from>1999-12-31T22:00:00.000Z</online-from>
+        <online-to>9999-12-31T22:00:00.000Z</online-to>
+        <amount quantity="1">4.99</amount>
+    </price-table>
+    <price-table product-id="1AC102   166 00002">
+        <online-from>1999-12-31T22:00:00.000Z</online-from>
+        <online-to>9999-12-31T22:00:00.000Z</online-to>
+        <amount quantity="1">4.99</amount>
+    </price-table>
+    <price-table product-id="1AC1066  4957TU">
+        <online-from>1999-12-31T22:00:00.000Z</online-from>
+        <online-to>9999-12-31T22:00:00.000Z</online-to>
+        <amount quantity="1">4.99</amount>
+    </price-table>
+    <price-table product-id="1AC116   019 00002">
+        <online-from>1999-12-31T22:00:00.000Z</online-from>
+        <online-to>9999-12-31T22:00:00.000Z</online-to>
+        <amount quantity="1">4.99</amount>
+    </price-table>
+    <price-table product-id="1AC118   019 00002">
+        <online-from>1999-12-31T22:00:00.000Z</online-from>
+        <online-to>9999-12-31T22:00:00.000Z</online-to>
+        <amount quantity="1">4.99</amount>
+    </price-table>
+    <price-table product-id="1AC120   009 00004">
+        <online-from>1999-12-31T22:00:00.000Z</online-from>
+        <online-to>9999-12-31T22:00:00.000Z</online-to>
+        <amount quantity="1">4.99</amount>
+    </price-table>
+    <price-table product-id="1AC120   009 S/M">
+        <online-from>1999-12-31T22:00:00.000Z</online-from>
+        <online-to>9999-12-31T22:00:00.000Z</online-to>
+        <amount quantity="1">4.99</amount>
+    </price-table>
+</pricebook>
